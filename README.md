@@ -32,11 +32,3 @@ Segue o passo a passo para a utilização da ferramenta <strong>setoolkit<strong
  ## Nota: 
  Na parte de seleção de URL poderás escolher o site que melhor encaixa para sua engenharia social, tudo vai depender do alvo.
  Em minha passagem pelo projeto testei com alguns sites, este do teste em questão foi com a pagina do Linkedin.
-
- ### Possiveis problemas
-
- Pode ser que encontre alguma dificuldade em receber o log, por exemplo as entradas de usuário e senha não aparecerem ou aparecerem coisas desconexas no lugar.
- Uma forma que encontrei para resolver e que funcionou comigo foi seguir os passos do seguinte repositório:
- https://github.com/lucaspicinini/phishing-with-kali-linux
- 
-
